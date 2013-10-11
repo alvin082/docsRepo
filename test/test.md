@@ -1,3 +1,3 @@
-kkkkkkk
-[../KKOMUL_LOGO.jpeg]
+#kkkkkkk
+![merong](../KKOMUL_LOGO.jpg)
 `
